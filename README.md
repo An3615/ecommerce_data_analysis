@@ -8,6 +8,9 @@
 
 目标：根据不同的R、F、M取值，对用户进行分层分类，分析用户价值。
 
+![image](https://github.com/user-attachments/assets/57d2078c-4b07-4b09-a270-c0336f6c0983)
+
+
 ## 主要步骤
 - 利用Python建立RFM模型
 - 根据R、F、M对用户进行分层（分类）并贴上标签（详情参考“RFM分析测试代码.ipynb”）
@@ -38,11 +41,17 @@ ecommerce_data_analysis/
 ```
 
 ## 部分效果展示
+
+RFM分析表：
+
 ![image](https://github.com/user-attachments/assets/5e7fb211-f11c-4122-a93d-a0ad4f4abd7c)
+
+报表展示：
 
 ![image](https://github.com/user-attachments/assets/7924deb7-e845-4b06-b112-0395f29c75e8)
 
 ![image](https://github.com/user-attachments/assets/17a7009d-2498-4ee0-9c6c-066907b0abc1)
+
 
 ## 项目价值
 - 熟练掌握MySQL数据交互
